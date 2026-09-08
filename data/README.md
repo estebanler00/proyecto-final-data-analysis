@@ -1,0 +1,1 @@
+Original DataBase download link: https://www.kaggle.com/datasets/hubertsidorowicz/steam-games-dataset-daily-updates
